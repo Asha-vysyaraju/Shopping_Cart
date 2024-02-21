@@ -1,3 +1,14 @@
+Created a shopping cart app  using React that allows users to add and remove items from the cart.
+Displays a list of available products with their name and description.
+Users should be able to add items to the cart by clicking the "Add to Cart" button.
+When an item is added to the cart, the cart quantity number is increased.
+The "Add to Cart" button is changed to the "Remove from Cart" button once the item is added to the cart.
+Users are able to remove items from the cart by clicking the "Remove from Cart" button.
+When an item is removed from the cart, the cart quantity number is decreased.
+The "Remove from Cart" button is changed back to the "Add to Cart" button once the item is removed from the cart.
+
+https://silver-unicorn-8c763d.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
